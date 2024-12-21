@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on My New Hugo Site</title>
+    <link>http://localhost:1313/resume/</link>
+    <description>Recent content in Resumes on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/resume/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/resume/</guid>
+      <description>&lt;h1 id=&#34;lucas-assumpção&#34;&gt;Lucas Assumpção&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Platform Engineer | SRE | AWS | Kubernetes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:lucasgomesassumpcao@gmail.com&#34;&gt;lucasgomesassumpcao@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/lucasassumpcao/&#34;&gt;lucasassumpcao&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-skills&#34;&gt;🛠 Skills&lt;/h2&gt;&#xA;&lt;h3 id=&#34;cloud--infrastructure&#34;&gt;Cloud &amp;amp; Infrastructure&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kubernetes:&lt;/strong&gt; CKAD level&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AWS:&lt;/strong&gt; Certified Solutions Architect level&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Compute:&lt;/strong&gt; EC2, ECR, Load Balancer&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; RDS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt; S3, EBS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backup:&lt;/strong&gt; AWS Backup&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Edge:&lt;/strong&gt; VPC, Route53&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Analytics:&lt;/strong&gt; AWS Glue, Athena&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Governance:&lt;/strong&gt; AWS Config, CloudTrail, Trusted Advisor, Health&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Billing and Cost Management:&lt;/strong&gt; Savings Plan, Reserved Instances, CUR, Cost Explorer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;tools--languages&#34;&gt;Tools &amp;amp; Languages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Golang (Fundamentals), Shell Scripting, Python&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Version Control:&lt;/strong&gt; Git, GitHub&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Containers:&lt;/strong&gt; Docker&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IaC &amp;amp; GitOps:&lt;/strong&gt; Terraform, Crossplane, ArgoCD&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monitoring &amp;amp; Observability:&lt;/strong&gt; Grafana, Datadog&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-work-experience&#34;&gt;🏢 Work Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;wellhub&#34;&gt;&lt;strong&gt;Wellhub&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Platform Engineer (Mid-level)&lt;/strong&gt; | &lt;em&gt;Aug 2024 – Present&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Site Reliability Engineer&lt;/strong&gt; | &lt;em&gt;May 2022 – Jul 2024&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

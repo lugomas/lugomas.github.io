@@ -1,0 +1,4 @@
+baseURL = 'https://lugomas.github.io'
+languageCode = 'en-us'
+title = 'Welcome to my Portifolio'
+theme = "hugo-profile"
